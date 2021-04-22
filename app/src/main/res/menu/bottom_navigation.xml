@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_guide"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Guides"/>
+    <item
+        android:id="@+id/nav_tracker"
+        android:icon="@drawable/ic_baseline_directions_run_24"
+        android:title="Tracker"/>
+    <item
+        android:id="@+id/nav_calorie"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:title="Calorie Counter"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"/>
+
+</menu>
