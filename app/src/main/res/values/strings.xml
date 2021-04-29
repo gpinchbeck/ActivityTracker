@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">ActivityTrackerV2</string>
+    <string name="page_title">My Profile</string>
+    <string name="pane1_title">Personal Information</string>
+    <string name="pane1_fn">First Name:</string>
+    <string name="pane1_ln">Last Name:</string>
+    <string name="pane1_email">Email Address:</string>
+    <string name="pane2_title">Dietary Information</string>
+    <string name="pane2_weight">Weight:</string>
+    <string name="pane2_plan">Current Plan:</string>
+    <string name="pane2_target">My Target:</string>
+    <string name="user_fn">Placeholder</string>
+    <string name="user_ln">Placeholder</string>
+    <string name="user_email">Placeholder</string>
+    <string name="user_weight">Placeholder</string>
+    <string name="user_plan">Placeholder</string>
+    <string name="user_target">Placeholder</string>
+    <string name="button_text">Edit Profile</string>
+    <string name="return_text">Go Back</string>
+    <string name="submit_text">Submit Changes</string>
+    <string name="editor_title">Edit Profile</string>
+    <string name="editor_hint1">Please Enter your First Name.</string>
+    <string name="editor_hint2">Please Enter your Last Name.</string>
+    <string name="editor_hint3">Please Enter your Email.</string>
+    <string name="editor_hint4">Please Enter your Weight in lb (e.g 145lb).</string>
+    <string name="standard_label">Standard</string>
+    <string name="moderate_label">Moderate</string>
+    <string name="intense_label">Intense</string>
+    <string name="editor_hint5">Please Enter your New Target.</string>
 </resources>
